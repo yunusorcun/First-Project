@@ -1,0 +1,41 @@
+[W 02:23:21.814 NotebookApp] Loading JupyterLab as a classic notebook (v6) extension.
+[I 2023-07-11 02:23:21.822 LabApp] JupyterLab extension loaded from C:\Users\yunus\anaconda3\lib\site-packages\jupyterlab
+[I 2023-07-11 02:23:21.823 LabApp] JupyterLab application directory is C:\Users\yunus\anaconda3\share\jupyter\lab
+[W 02:23:23.988 NotebookApp] Permission to listen on port 8888 denied.
+[I 02:23:23.990 NotebookApp] Serving notebooks from local directory: C:\Users\yunus
+[I 02:23:23.990 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 02:23:23.991 NotebookApp] http://localhost:8889/?token=f1c11c0ca46fe728aba8e4929d7bbcb2c75ee2587d4e74cb
+[I 02:23:23.991 NotebookApp]  or http://127.0.0.1:8889/?token=f1c11c0ca46fe728aba8e4929d7bbcb2c75ee2587d4e74cb
+[I 02:23:23.992 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 02:23:24.138 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/yunus/AppData/Roaming/jupyter/runtime/nbserver-22008-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=f1c11c0ca46fe728aba8e4929d7bbcb2c75ee2587d4e74cb
+     or http://127.0.0.1:8889/?token=f1c11c0ca46fe728aba8e4929d7bbcb2c75ee2587d4e74cb
+[W 02:26:05.345 NotebookApp] Notebook Documents/udemy indirilen kurslar/22)Files.ipynb is not trusted
+[I 02:26:05.520 NotebookApp] Kernel started: 4e1c6027-632a-4387-b78f-7200b52e495d, name: python3
+[I 02:30:05.426 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+C:\Users\yunus\anaconda3\lib\site-packages\nbformat\__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+C:\Users\yunus\anaconda3\lib\site-packages\notebook\services\contents\manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 02:32:05.408 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+[I 02:32:06.371 NotebookApp] Starting buffering for 4e1c6027-632a-4387-b78f-7200b52e495d:d5d4893728b24f4d88c6ee6b31556910
+[I 02:32:06.773 NotebookApp] Kernel restarted: 4e1c6027-632a-4387-b78f-7200b52e495d
+[I 02:32:06.782 NotebookApp] Restoring connection for 4e1c6027-632a-4387-b78f-7200b52e495d:d5d4893728b24f4d88c6ee6b31556910
+[I 02:32:08.804 NotebookApp] Replaying 3 buffered messages
+[I 02:34:06.336 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+[I 02:42:05.415 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+[I 02:46:05.407 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+[I 02:48:05.415 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+[I 02:48:14.470 NotebookApp] Starting buffering for 4e1c6027-632a-4387-b78f-7200b52e495d:d5d4893728b24f4d88c6ee6b31556910
+[I 03:50:04.954 NotebookApp] Restoring connection for 4e1c6027-632a-4387-b78f-7200b52e495d:d5d4893728b24f4d88c6ee6b31556910
+[I 03:56:05.410 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+[I 03:58:05.409 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+[I 04:00:05.409 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+[I 04:08:05.409 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+[I 04:10:05.395 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+[I 04:11:51.904 NotebookApp] Saving file at /Documents/udemy indirilen kurslar/22)Files.ipynb
+[I 04:15:43.341 NotebookApp] Starting buffering for 4e1c6027-632a-4387-b78f-7200b52e495d:d5d4893728b24f4d88c6ee6b31556910
