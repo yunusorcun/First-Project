@@ -1,0 +1,36 @@
+[33mcommit f53103ed012330c90802aee12895b39cc8dd5d26[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c3215b2 3c2bb0e
+Author: Yunus Orcun DURMAZ <yunusorcun98@gmail.com>
+Date:   Mon Sep 11 06:25:14 2023 +0300
+
+    merge seved1
+
+[33mcommit c3215b221eacd5514ee817c490ca65a26041d1d2[m
+Author: Yunus Orcun DURMAZ <yunusorcun98@gmail.com>
+Date:   Mon Sep 11 06:16:25 2023 +0300
+
+    saved chapter3
+
+[33mcommit 2c833b6cfd0546c1d4208479b3cb01411e2df876[m[33m ([m[1;32mchapter2[m[33m)[m
+Author: Yunus Orcun DURMAZ <yunusorcun98@gmail.com>
+Date:   Sun Sep 10 06:36:49 2023 +0300
+
+    chapter3 remove
+
+[33mcommit 3c2bb0edf349514f3d64bcde0a895467ad44465a[m[33m ([m[1;32mchapter3[m[33m)[m
+Author: Yunus Orcun DURMAZ <yunusorcun98@gmail.com>
+Date:   Sun Sep 10 06:28:36 2023 +0300
+
+    chapter3 is done
+
+[33mcommit c4cc9a50a9d2f6825ed6e202374ebc2d4ad7f82a[m
+Author: Yunus Orcun DURMAZ <yunusorcun98@gmail.com>
+Date:   Mon Sep 4 06:32:15 2023 +0300
+
+    .gitconfig is modified
+
+[33mcommit c8a7c27bc1301ca9b3ceea9a25467feb41ddb619[m
+Author: Yunus Orcun DURMAZ <yunusorcun98@gmail.com>
+Date:   Mon Sep 4 06:29:25 2023 +0300
+
+    test1.txt added and test2.txt modified

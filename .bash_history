@@ -121,3 +121,15 @@ git .bash_history
 git log
 git branch
 git log
+git merge chapter2
+git .add
+git add .
+git status
+git add .
+git branch
+git merge chapter2
+git merge chapter3
+git commit -m"merge seved1"
+git merge chapter3
+git status
+git log
